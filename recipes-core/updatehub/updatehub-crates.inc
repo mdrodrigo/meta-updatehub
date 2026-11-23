@@ -241,9 +241,9 @@ SRC_URI += " \
     crate://crates.io/redox_syscall/0.5.18 \
     crate://crates.io/ref-cast/1.0.26 \
     crate://crates.io/ref-cast-impl/1.0.26 \
-    crate://crates.io/regex/1.13.1 \
-    crate://crates.io/regex-automata/0.4.16 \
-    crate://crates.io/regex-syntax/0.8.11 \
+    crate://crates.io/regex/1.13.2 \
+    crate://crates.io/regex-automata/0.4.19 \
+    crate://crates.io/regex-syntax/0.8.12 \
     crate://crates.io/reqwest/0.13.5 \
     crate://crates.io/result/1.0.0 \
     crate://crates.io/ring/0.17.14 \
@@ -652,9 +652,9 @@ SRC_URI[rand_core-0.10.1.sha256sum] = "63b8176103e19a2643978565ca18b50549f610188
 SRC_URI[redox_syscall-0.5.18.sha256sum] = "ed2bf2547551a7053d6fdfafda3f938979645c44812fbfcda098faae3f1a362d"
 SRC_URI[ref-cast-1.0.26.sha256sum] = "216e8f773d7923bcba9ceb86a86c93cabb3903a11872fc3f138c49630e50b96d"
 SRC_URI[ref-cast-impl-1.0.26.sha256sum] = "2c9283685feec7d69af75fb0e858d5e7378f33fe4fc699383b2916ab9273e03c"
-SRC_URI[regex-1.13.1.sha256sum] = "f020237b6c8eed93db2e2cb53c00c60a8e1bc73da7d073199a1180401450218d"
-SRC_URI[regex-automata-0.4.16.sha256sum] = "8fcfdb36bda0c880c5931cdc7a2bcdc8ba4556847b9d912bca70bc94708711ad"
-SRC_URI[regex-syntax-0.8.11.sha256sum] = "d6f6ff9a378485b298a5286656da665ba74413d36db0979633275d2e708145d4"
+SRC_URI[regex-1.13.2.sha256sum] = "9807af0e638c12e753aa1b4e601791bf2a8f71274023c8bbeec12fc149950857"
+SRC_URI[regex-automata-0.4.19.sha256sum] = "41d60ef07df457506a0a1a2073112eb4aae5733dbd2813c3da77d1b0fd441158"
+SRC_URI[regex-syntax-0.8.12.sha256sum] = "d902046e6a28a1e4c3cab97258a0ce11e994903f01c2d97a9447a0b3df85f4f6"
 SRC_URI[reqwest-0.13.5.sha256sum] = "16a1cfa75cc186dd73d5818e510e042e40927bccc9c236b061cea97e1eb08029"
 SRC_URI[result-1.0.0.sha256sum] = "194d8e591e405d1eecf28819740abed6d719d1a2db87fc0bcdedee9a26d55560"
 SRC_URI[ring-0.17.14.sha256sum] = "a4689e6c2294d81e88dc6261c768b63bc4fcdb852be6d1352498b114f61383b7"
